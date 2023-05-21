@@ -1,0 +1,16 @@
+/**Selector universal**/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.NavigationBar{
+    width: 500px;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: azure;
+}
